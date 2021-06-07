@@ -1,4 +1,4 @@
-IMPLEMENTING A TEXT BASED VERSION OF SEARCH ENGINE(GOOGLE,BING,BAIDU etc.)!
+IMPLEMENTING A TEXT BASED VERSION OF SEARCH ENGINE(GOOGLE,BING,BAIDU etc.) GIVEN A SET OF TEXT FILES AND A QUERY AS INPUT.
 
 
 *) create_index(filenames, index, file_titles) to read in a list of filenames and update an index of 
